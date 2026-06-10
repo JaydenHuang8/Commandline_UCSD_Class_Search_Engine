@@ -1,0 +1,186 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.23.9",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "5092ad392f1ebf4eee332d7caced9ec4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "67ae4098ad3cda9a1782d46cf02c163a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "7e45362289bd89a5bc6f0bd6849a2661",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "3fff56736050f1dfe6f09c2bbd48c6d4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "AIP    Academic Internship Program\n       https://catalog.ucsd.edu/courses/AIP.html\nAWP    Analytical Writing Program\n       https://catalog.ucsd.edu/courses/AWP.html\nANTH   Anthropology\n       https://catalog.ucsd.edu/courses/ANTH.html\nAAPI   Asian American and Pacific Islander Studies Minor\n       https://catalog.ucsd.edu/courses/AAPI.html\nASTR   Astronomy and Astrophysics\n       https://catalog.ucsd.edu/courses/ASTR.html\nBIOM   Biomedical Sciences\n       https://catalog.ucsd.edu/courses/BIOM.html\nCHEM   Chemistry and Biochemistry\n       https://catalog.ucsd.edu/courses/CHEM.html\nCHIN   Chinese Studies\n       https://catalog.ucsd.edu/courses/CHIN.html\nCLAS   Classical Studies\n       https://catalog.ucsd.edu/courses/CLAS.html\nCCS    Climate Change Studies\n       https://catalog.ucsd.edu/courses/CCS.html\nCLIN   Clinical Psychology\n       https://catalog.ucsd.edu/courses/CLIN.html\nCLRE   Clinical Research\n       https://catalog.ucsd.edu/courses/CLRE.html\nCOGS   Cognitive Science\n       https://catalog.ucsd.edu/courses/COGS.html\nCOMM   Communication\n       https://catalog.ucsd.edu/courses/COMM.html\nCCE    Critical Community Engagement\n       https://catalog.ucsd.edu/courses/CCE.html\nCGS    Critical Gender Studies\n       https://catalog.ucsd.edu/courses/CGS.html\nCAT    Culture, Art, and Technology\n       https://catalog.ucsd.edu/courses/CAT.html\nDSC    Data Science\n       https://catalog.ucsd.edu/courses/DSC.html\nDSGN   Design\n       https://catalog.ucsd.edu/courses/DSGN.html\nDOC    Dimensions of Culture\n       https://catalog.ucsd.edu/courses/DOC.html\nECON   Economics\n       https://catalog.ucsd.edu/courses/ECON.html\nEDS    Education Studies\n       https://catalog.ucsd.edu/courses/EDS.html\nERC    Eleanor Roosevelt College\n       https://catalog.ucsd.edu/courses/ERC.html\nENG    Engineering, Jacobs School of\n       https://catalog.ucsd.edu/courses/ENG.html\nBENG   Bioengineering\n       https://catalog.ucsd.edu/courses/BENG.html\nNANO   Chemical and NanoEngineering\n       https://catalog.ucsd.edu/courses/NANO.html\nCSE    Computer Science and Engineering\n       https://catalog.ucsd.edu/courses/CSE.html\nECE    Electrical and Computer Engineering\n       https://catalog.ucsd.edu/courses/ECE.html\nMAE    Mechanical and Aerospace Engineering\n       https://catalog.ucsd.edu/courses/MAE.html\nSE     Structural Engineering\n       https://catalog.ucsd.edu/courses/SE.html\nENVR   Environmental Studies\n       https://catalog.ucsd.edu/courses/ENVR.html\nESYS   Environmental Systems\n       https://catalog.ucsd.edu/courses/ESYS.html\nETHN   Ethnic Studies\n       https://catalog.ucsd.edu/courses/ETHN.html\nGLBH   Global Health Program\n       https://catalog.ucsd.edu/courses/GLBH.html\nGSS    Global South Studies (formerly Third World Studies)\n       https://catalog.ucsd.edu/courses/GSS.html\nLHCO   Health Care-Leadership of Healthcare Organizations\n       https://catalog.ucsd.edu/courses/LHCO.html\nHDS    Human Developmental Sciences Program\n       https://catalog.ucsd.edu/courses/HDS.html\nHMNR   Human Rights and Migration Minor\n       https://catalog.ucsd.edu/courses/HMNR.html\nHUM    Humanities\n       https://catalog.ucsd.edu/courses/HUM.html\nINTL   International Studies\n       https://catalog.ucsd.edu/courses/INTL.html\nJAPN   Japanese Studies\n       https://catalog.ucsd.edu/courses/JAPN.html\nJWSP   Jewish Studies\n       https://catalog.ucsd.edu/courses/JWSP.html\nLATI   Latin American Studies\n       https://catalog.ucsd.edu/courses/LATI.html\nLAWS   Law and Society\n       https://catalog.ucsd.edu/courses/LAWS.html\nMMW    Making of the Modern World\n       https://catalog.ucsd.edu/courses/MMW.html\nMGT    Management, Rady School of\n       https://catalog.ucsd.edu/courses/MGT.html\nMBC    Marine Biodiversity and Conservation\n       https://catalog.ucsd.edu/courses/MBC.html\nMATS   Materials Science and Engineering Program\n       https://catalog.ucsd.edu/courses/MATS.html\nMATH   Mathematics\n       https://catalog.ucsd.edu/courses/MATH.html\nMSED   Mathematics and Science Education\n       https://catalog.ucsd.edu/courses/MSED.html\nMCWP   Muir College\n       https://catalog.ucsd.edu/courses/MCWP.html\nMUS    Music\n       https://catalog.ucsd.edu/courses/MUS.html\nNEU    Neurosciences\n       https://catalog.ucsd.edu/courses/NEU.html\nPHIL   Philosophy\n       https://catalog.ucsd.edu/courses/PHIL.html\nPHYS   Physics\n       https://catalog.ucsd.edu/courses/PHYS.html\nPOLI   Political Science\n       https://catalog.ucsd.edu/courses/POLI.html\nPSYC   Psychology\n       https://catalog.ucsd.edu/courses/PSYC.html\nPH     Public Health\n       https://catalog.ucsd.edu/courses/PH.html\nRELI   Religion, Study of\n       https://catalog.ucsd.edu/courses/RELI.html\nREV    Revelle College\n       https://catalog.ucsd.edu/courses/REV.html\nSIO    Scripps Institution of Oceanography\n       https://catalog.ucsd.edu/courses/SIO.html\nSEV    Seventh College\n       https://catalog.ucsd.edu/courses/SEV.html\nSXTH   Sixth College\n       https://catalog.ucsd.edu/courses/SXTH.html\nSYN    Synthesis Program\n       https://catalog.ucsd.edu/courses/SYN.html\nTMC    Thurgood Marshall College\n       https://catalog.ucsd.edu/courses/TMC.html\nUSP    Urban Studies and Planning\n       https://catalog.ucsd.edu/courses/USP.html\nVIS    Visual Arts\n       https://catalog.ucsd.edu/courses/VIS.html\nWARR   Warren College\n       https://catalog.ucsd.edu/courses/WARR.html\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "f5d86e6d4b16db95568eb40691d3475e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "8e1bcbe4b39fcf187b3547d1a2bafe6f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"></span>"
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Error: \"EMED\" is not a valid department code. Did you mean: MSED, MAE, EDS, ECE, CHEM?\nError: \"DERM\" is not a valid department code. Did you mean: ERC, ENVR, CHEM?\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "Xref",
+      "code_hash": "3a8b58d1f8d2097a0d58ca6e42728fba",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "uloJ",
+      "code_hash": "2cf8ed2fc43e2704ca80ab9bb47a3bf7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "HlWA",
+      "code_hash": "f27984199a32ebc5fcce535dd654274e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "WhUu",
+      "code_hash": "c791b7d23d552126fec23b26131a1a99",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BhTG",
+      "code_hash": "cc3874d9334f03043e09b04ff15df964",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "XHwp",
+      "code_hash": "06aee66bfacd509c05239873d1605a56",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "\u2514\u2500\u2500 DSC 100\n    [upper-division standing]\n    \u251c\u2500\u2500 DSC 40B\n    \u2502   \u251c\u2500\u2500 DSC 30\n    \u2502   \u2502   \u2514\u2500\u2500 DSC 20\n    \u2502   \u2502       \u2514\u2500\u2500 DSC 10\n    \u2502   \u2514\u2500\u2500 DSC 40A\n    \u2502       \u251c\u2500\u2500 DSC 10\n    \u2502       \u251c\u2500\u2500 MATH 18\n    \u2502       \u2502   \u251c\u2500\u2500 MATH 10A\n    \u2502       \u2502   \u2502   \u251c\u2500\u2500 MATH 3C\n    \u2502       \u2502   \u2502   \u2502   \u2514\u2500\u2500 MATH 3B\n    \u2502       \u2502   \u2502   \u2514\u2500\u2500 MATH 4C\n    \u2502       \u2502   \u2502       \u2514\u2500\u2500 MATH 3C\n    \u2502       \u2502   \u251c\u2500\u2500 MATH 20A\n    \u2502       \u2502   \u2502   \u251c\u2500\u2500 MATH 10A\n    \u2502       \u2502   \u2502   \u2514\u2500\u2500 MATH 4C\n    \u2502       \u2502   \u2514\u2500\u2500 MATH 4C\n    \u2502       \u251c\u2500\u2500 MATH 20C\n    \u2502       \u2502   \u2514\u2500\u2500 MATH 20B\n    \u2502       \u2502       \u251c\u2500\u2500 MATH 10B\n    \u2502       \u2502       \u2502   \u251c\u2500\u2500 MATH 10A\n    \u2502       \u2502       \u2502   \u2514\u2500\u2500 MATH 20A\n    \u2502       \u2502       \u251c\u2500\u2500 MATH 10C\n    \u2502       \u2502       \u2502   \u251c\u2500\u2500 MATH 10B\n    \u2502       \u2502       \u2502   \u2514\u2500\u2500 MATH 20B\n    \u2502       \u2502       \u2514\u2500\u2500 MATH 20A\n    \u2502       \u251c\u2500\u2500 MATH 20F\n    \u2502       \u251c\u2500\u2500 MATH 31AH\n    \u2502       \u2502   \u2514\u2500\u2500 MATH 20A\n    \u2502       \u2514\u2500\u2500 MATH 31BH\n    \u2502           \u2514\u2500\u2500 MATH 31AH\n    \u2514\u2500\u2500 DSC 80\n        \u251c\u2500\u2500 DSC 30\n        \u2514\u2500\u2500 DSC 40A\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    }
+  ]
+}

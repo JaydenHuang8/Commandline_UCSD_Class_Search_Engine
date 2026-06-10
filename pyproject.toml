@@ -1,0 +1,25 @@
+[project]
+name = "commandline-ucsd-class-search-engine"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "JaydenHuang8", email = "jah059@ucsd.edu" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "requests>=2.34.2",
+]
+
+[project.scripts]
+commandline-ucsd-class-search-engine = "commandline_ucsd_class_search_engine:main"
+
+[build-system]
+requires = ["uv_build>=0.11.8,<0.12.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "marimo>=0.23.9",
+]
