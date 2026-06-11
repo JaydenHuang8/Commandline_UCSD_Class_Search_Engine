@@ -1,12 +1,12 @@
 [project]
 name = "commandline-ucsd-class-search-engine"
 version = "0.1.0"
-description = "Add your description here"
+description = "UCSD course search tool"
 readme = "README.md"
 authors = [
     { name = "JaydenHuang8", email = "jah059@ucsd.edu" }
 ]
-requires-python = ">=3.12"
+requires-python = ">=3.10"
 dependencies = [
     "beautifulsoup4>=4.14.3",
     "requests>=2.34.2",
